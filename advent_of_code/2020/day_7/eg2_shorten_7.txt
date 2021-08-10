@@ -1,0 +1,7 @@
+dark blue: ('dark violet',)
+dark green: ('dark blue',)
+dark orange: ('dark yellow',)
+dark red: ('dark orange',)
+dark violet: ('absent',)
+dark yellow: ('dark green',)
+shiny gold: ('dark red',)

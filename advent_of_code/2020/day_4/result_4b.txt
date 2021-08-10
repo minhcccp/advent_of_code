@@ -1,0 +1,4332 @@
+
+Passport #0
+byr: 1940
+Test: True
+iyr: 2017
+Test: True
+eyr: 2025
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 561068005
+Test: True
+hgt: 159cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #1
+byr: 1986
+Test: True
+iyr: 2014
+Test: True
+eyr: 2025
+Test: True
+hcl: 0
+Test: False
+hgt: 0cm
+Test: False
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #2
+byr: 1982
+Test: True
+iyr: 2011
+Test: True
+eyr: 2023
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 006632702
+Test: True
+hgt: 68in
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #3
+byr: 1979
+Test: True
+iyr: 2028
+Test: False
+hcl: #341e13
+Test: True
+pid: 653515689
+Test: True
+ecl: utc
+Test: False
+Finally pass: False
+
+Passport #4
+byr: 0
+Test: False
+hcl: b2114e
+Test: False
+hgt: 161cm
+Test: True
+ecl: #1850b8
+Test: False
+Finally pass: False
+
+Passport #5
+byr: 1939
+Test: True
+iyr: 2019
+Test: True
+eyr: 2027
+Test: True
+hcl: #a97842
+Test: True
+pid: 935099157
+Test: True
+hgt: 155cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #6
+byr: 1962
+Test: True
+iyr: 2013
+Test: True
+eyr: 2024
+Test: True
+hcl: #602927
+Test: True
+pid: 102781360
+Test: True
+hgt: 0cm
+Test: False
+ecl: grn
+Test: True
+Finally pass: False
+
+Passport #7
+byr: 1951
+Test: True
+iyr: 2014
+Test: True
+eyr: 0
+Test: False
+hcl: #602927
+Test: True
+pid: 659074205
+Test: True
+hgt: 152cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #8
+byr: 2030
+Test: False
+hcl: 8464b2
+Test: False
+hgt: 155cm
+Test: True
+ecl: dne
+Test: False
+Finally pass: False
+
+Passport #9
+byr: 1984
+Test: True
+iyr: 2016
+Test: True
+eyr: 2026
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 863872932
+Test: True
+hgt: 190cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #10
+byr: 1966
+Test: True
+iyr: 2014
+Test: True
+eyr: 2030
+Test: True
+hcl: #efcc98
+Test: True
+pid: 894418497
+Test: True
+hgt: 189cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #11
+byr: 1937
+Test: True
+iyr: 2017
+Test: True
+eyr: 2028
+Test: True
+hcl: 0
+Test: False
+hgt: 165cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: False
+
+Passport #12
+byr: 1953
+Test: True
+iyr: 2010
+Test: True
+eyr: 2023
+Test: True
+hcl: #6b5442
+Test: True
+pid: 948173962
+Test: True
+hgt: 166cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #13
+byr: 1962
+Test: True
+iyr: 2010
+Test: True
+eyr: 2024
+Test: True
+hcl: #341e13
+Test: True
+pid: 097154397
+Test: True
+hgt: 183cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #14
+byr: 1942
+Test: True
+iyr: 0
+Test: False
+hcl: #05e97d
+Test: True
+pid: 42823283
+Test: False
+hgt: 61cm
+Test: False
+ecl: xry
+Test: False
+Finally pass: False
+
+Passport #15
+byr: 1967
+Test: True
+iyr: 2012
+Test: True
+eyr: 2021
+Test: True
+hcl: #888785
+Test: True
+pid: 960190685
+Test: True
+hgt: 76in
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #16
+byr: 1958
+Test: True
+iyr: 2012
+Test: True
+eyr: 2025
+Test: True
+hcl: #18171d
+Test: True
+pid: 759427419
+Test: True
+hgt: 0cm
+Test: False
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #17
+byr: 1979
+Test: True
+iyr: 2028
+Test: False
+hcl: caff12
+Test: False
+hgt: 184cm
+Test: True
+ecl: #829d2e
+Test: False
+Finally pass: False
+
+Passport #18
+byr: 1981
+Test: True
+iyr: 2016
+Test: True
+eyr: 2020
+Test: True
+hcl: #a97842
+Test: True
+pid: 625590775
+Test: True
+hgt: 178cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #19
+byr: 2014
+Test: False
+hcl: bc419f
+Test: False
+ecl: amb
+Test: True
+Finally pass: False
+
+Passport #20
+byr: 1993
+Test: True
+iyr: 0
+Test: False
+hcl: #efcc98
+Test: True
+pid: 0
+Test: False
+hgt: 152cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #21
+byr: 2012
+Test: False
+hcl: 0
+Test: False
+hgt: 163in
+Test: False
+ecl: grn
+Test: True
+Finally pass: False
+
+Passport #22
+byr: 1965
+Test: True
+iyr: 2012
+Test: True
+eyr: 2020
+Test: True
+hcl: z
+Test: False
+hgt: 165cm
+Test: True
+ecl: #78f4fa
+Test: False
+Finally pass: False
+
+Passport #23
+byr: 1936
+Test: True
+iyr: 2016
+Test: True
+eyr: 2021
+Test: True
+hcl: #623a2f
+Test: True
+pid: 868305933
+Test: True
+hgt: 174cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #24
+byr: 1940
+Test: True
+iyr: 2012
+Test: True
+eyr: 2027
+Test: True
+hcl: #2a6308
+Test: True
+pid: 675209536
+Test: True
+hgt: 154cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #25
+byr: 1954
+Test: True
+iyr: 2016
+Test: True
+eyr: 2022
+Test: True
+hcl: #fffffd
+Test: True
+pid: 186cm
+Test: False
+hgt: 151cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #26
+byr: 1927
+Test: True
+iyr: 2010
+Test: True
+eyr: 2027
+Test: True
+hcl: #623a2f
+Test: True
+pid: 725111435
+Test: True
+hgt: 177cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #27
+byr: 1942
+Test: True
+iyr: 2015
+Test: True
+eyr: 2028
+Test: True
+hcl: #a97842
+Test: True
+pid: 801551597
+Test: True
+hgt: 193cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #28
+byr: 1932
+Test: True
+iyr: 2018
+Test: True
+eyr: 2030
+Test: True
+hcl: #6b5442
+Test: True
+pid: 896180324
+Test: True
+hgt: 162cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #29
+byr: 1998
+Test: True
+iyr: 1953
+Test: False
+hcl: #733820
+Test: True
+pid: 9500162195
+Test: False
+hgt: 182cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: False
+
+Passport #30
+byr: 2026
+Test: False
+hcl: z
+Test: False
+hgt: 71cm
+Test: False
+ecl: #1e935c
+Test: False
+Finally pass: False
+
+Passport #31
+byr: 1925
+Test: True
+iyr: 2012
+Test: True
+eyr: 2025
+Test: True
+hcl: #602927
+Test: True
+pid: 303312675
+Test: True
+hgt: 168cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #32
+byr: 2029
+Test: False
+hcl: 0
+Test: False
+hgt: 150in
+Test: False
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #33
+byr: 2026
+Test: False
+hcl: z
+Test: False
+ecl: #9524e0
+Test: False
+Finally pass: False
+
+Passport #34
+byr: 1963
+Test: True
+iyr: 2024
+Test: False
+hcl: #fffffd
+Test: True
+pid: 4980937
+Test: False
+hgt: 156cm
+Test: True
+ecl: #689e88
+Test: False
+Finally pass: False
+
+Passport #35
+byr: 1997
+Test: True
+iyr: 2020
+Test: True
+eyr: 2027
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 719820090
+Test: True
+hgt: 165cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #36
+byr: 1953
+Test: True
+iyr: 2011
+Test: True
+eyr: 2025
+Test: True
+hcl: #efcc98
+Test: True
+pid: 241723456
+Test: True
+hgt: 185cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #37
+byr: 1936
+Test: True
+iyr: 2010
+Test: True
+eyr: 2022
+Test: True
+hcl: #623a2f
+Test: True
+pid: 064253102
+Test: True
+hgt: 156cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #38
+byr: 1987
+Test: True
+iyr: 2019
+Test: True
+eyr: 2026
+Test: True
+hcl: #a97842
+Test: True
+pid: #4e4a46
+Test: False
+hgt: 150cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #39
+byr: 1953
+Test: True
+iyr: 2012
+Test: True
+eyr: 2020
+Test: True
+hcl: #341e13
+Test: True
+pid: 910793005
+Test: True
+hgt: 67in
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #40
+byr: 1930
+Test: True
+iyr: 2024
+Test: False
+hcl: 701b48
+Test: False
+hgt: 166cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #41
+byr: 1921
+Test: True
+iyr: 2019
+Test: True
+eyr: 2026
+Test: True
+hcl: #efcc98
+Test: True
+pid: 024916763
+Test: True
+hgt: 162cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #42
+byr: 0
+Test: False
+hcl: #fffffd
+Test: True
+pid: 779214145
+Test: True
+hgt: 167cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #43
+byr: 1941
+Test: True
+iyr: 2014
+Test: True
+eyr: 2022
+Test: True
+hcl: #6b5442
+Test: True
+pid: 610328167
+Test: True
+hgt: 169cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #44
+byr: 1958
+Test: True
+iyr: 2026
+Test: False
+hcl: 0
+Test: False
+hgt: 185cm
+Test: True
+ecl: #deb37c
+Test: False
+Finally pass: False
+
+Passport #45
+byr: 1941
+Test: True
+iyr: 2017
+Test: True
+eyr: 2030
+Test: True
+hcl: #341e13
+Test: True
+pid: 907508207
+Test: True
+hgt: 186cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #46
+byr: 1925
+Test: True
+iyr: 2018
+Test: True
+eyr: 2023
+Test: True
+hcl: #a97842
+Test: True
+pid: 903196231
+Test: True
+hgt: 159cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #47
+byr: 0
+Test: False
+hcl: #fffffd
+Test: True
+pid: 572453155
+Test: True
+hgt: 185cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #48
+byr: 2030
+Test: False
+hcl: #a97842
+Test: True
+pid: #ab3597
+Test: False
+hgt: 181cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: False
+
+Passport #49
+byr: 1972
+Test: True
+iyr: 2014
+Test: True
+eyr: 2021
+Test: True
+hcl: #602927
+Test: True
+pid: 257420555
+Test: True
+hgt: 68in
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #50
+byr: 1974
+Test: True
+iyr: 2017
+Test: True
+eyr: 2022
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 353127736
+Test: True
+hgt: 152cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #51
+byr: 1924
+Test: True
+iyr: 2018
+Test: True
+eyr: 2028
+Test: True
+hcl: #69929e
+Test: True
+pid: 942207567
+Test: True
+hgt: 68in
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #52
+byr: 1990
+Test: True
+iyr: 2011
+Test: True
+eyr: 2028
+Test: True
+hcl: #623a2f
+Test: True
+pid: 947625812
+Test: True
+hgt: 185cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #53
+byr: 1996
+Test: True
+iyr: 2012
+Test: True
+eyr: 2023
+Test: True
+hcl: #866857
+Test: True
+pid: 437669135
+Test: True
+hgt: 175cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #54
+byr: 1937
+Test: True
+iyr: 2017
+Test: True
+eyr: 2030
+Test: True
+hcl: #866857
+Test: True
+pid: 513963895
+Test: True
+hgt: 157cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #55
+byr: 1920
+Test: True
+iyr: 2016
+Test: True
+eyr: 2025
+Test: True
+hcl: #623a2f
+Test: True
+pid: 559150893
+Test: True
+hgt: 176cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #56
+byr: 1982
+Test: True
+iyr: 2011
+Test: True
+eyr: 1961
+Test: False
+hcl: #888785
+Test: True
+pid: 709006236
+Test: True
+hgt: 167cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #57
+byr: 1935
+Test: True
+iyr: 2013
+Test: True
+eyr: 2030
+Test: True
+hcl: #888785
+Test: True
+pid: 307171649
+Test: True
+hgt: 182cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #58
+byr: 2009
+Test: False
+hcl: #888785
+Test: True
+pid: 140487128
+Test: True
+hgt: 153cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #59
+byr: 1997
+Test: True
+iyr: 2019
+Test: True
+eyr: 2028
+Test: True
+hcl: #888785
+Test: True
+pid: 0
+Test: False
+hgt: 169cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #60
+byr: 2005
+Test: False
+hcl: #cfa07d
+Test: True
+pid: 8143047758
+Test: False
+hgt: 182in
+Test: False
+ecl: #27a1c9
+Test: False
+Finally pass: False
+
+Passport #61
+byr: 2013
+Test: False
+hcl: #783308
+Test: True
+pid: 829007679
+Test: True
+hgt: 178in
+Test: False
+ecl: grn
+Test: True
+Finally pass: False
+
+Passport #62
+byr: 1930
+Test: True
+iyr: 2020
+Test: True
+eyr: 2026
+Test: True
+hcl: #6b5442
+Test: True
+pid: 949963673
+Test: True
+hgt: 188cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #63
+byr: 1935
+Test: True
+iyr: 2017
+Test: True
+eyr: 2022
+Test: True
+hcl: #b6652a
+Test: True
+pid: 254482159
+Test: True
+hgt: 165cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #64
+byr: 2023
+Test: False
+hcl: 109d15
+Test: False
+hgt: 72cm
+Test: False
+ecl: grt
+Test: False
+Finally pass: False
+
+Passport #65
+byr: 1969
+Test: True
+iyr: 2015
+Test: True
+eyr: 2024
+Test: True
+hcl: #602927
+Test: True
+pid: 578662559
+Test: True
+hgt: 151cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #66
+byr: 1989
+Test: True
+iyr: 2011
+Test: True
+eyr: 2029
+Test: True
+hcl: #efcc98
+Test: True
+pid: 123354233
+Test: True
+hgt: 0cm
+Test: False
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #67
+byr: 2002
+Test: True
+iyr: 2010
+Test: True
+eyr: 2029
+Test: True
+hcl: #a97842
+Test: True
+pid: 558586208
+Test: True
+hgt: 152cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #68
+byr: 2024
+Test: False
+hcl: 3cf4cd
+Test: False
+hgt: 74cm
+Test: False
+ecl: gmt
+Test: False
+Finally pass: False
+
+Passport #69
+byr: 0
+Test: False
+hcl: #7d3b0c
+Test: True
+pid: 0
+Test: False
+hgt: 178cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #70
+byr: 1970
+Test: True
+iyr: 2020
+Test: True
+eyr: 2030
+Test: True
+hcl: #6b5442
+Test: True
+pid: 698123164
+Test: True
+hgt: 155cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #71
+byr: 1949
+Test: True
+iyr: 2014
+Test: True
+eyr: 2023
+Test: True
+hcl: #6b5442
+Test: True
+pid: 149063285
+Test: True
+hgt: 64in
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #72
+byr: 1962
+Test: True
+iyr: 2012
+Test: True
+eyr: 2025
+Test: True
+hcl: #866857
+Test: True
+pid: 416329937
+Test: True
+hgt: 185cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #73
+byr: 1985
+Test: True
+iyr: 2020
+Test: True
+eyr: 2020
+Test: True
+hcl: #733820
+Test: True
+pid: 237883033
+Test: True
+hgt: 0cm
+Test: False
+ecl: blu
+Test: True
+Finally pass: False
+
+Passport #74
+byr: 1960
+Test: True
+iyr: 2020
+Test: True
+eyr: 2024
+Test: True
+hcl: #888785
+Test: True
+pid: 590574853
+Test: True
+hgt: 71in
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #75
+byr: 1977
+Test: True
+iyr: 2019
+Test: True
+eyr: 2024
+Test: True
+hcl: #604861
+Test: True
+pid: 834729501
+Test: True
+hgt: 72in
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #76
+byr: 1940
+Test: True
+iyr: 2019
+Test: True
+eyr: 2021
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 111536282
+Test: True
+hgt: 69in
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #77
+byr: 1958
+Test: True
+iyr: 2012
+Test: True
+eyr: 2025
+Test: True
+hcl: #cfa07d
+Test: True
+pid: 045765056
+Test: True
+hgt: 186cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #78
+byr: 2017
+Test: False
+hcl: #602927
+Test: True
+pid: 4189258985
+Test: False
+hgt: 61in
+Test: True
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #79
+byr: 1984
+Test: True
+iyr: 2013
+Test: True
+eyr: 2021
+Test: True
+hcl: #866857
+Test: True
+pid: 927074474
+Test: True
+hgt: 168cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #80
+byr: 1968
+Test: True
+iyr: 2014
+Test: True
+eyr: 2027
+Test: True
+hcl: #866857
+Test: True
+pid: 948677443
+Test: True
+hgt: 186cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #81
+byr: 1960
+Test: True
+iyr: 2018
+Test: True
+eyr: 2028
+Test: True
+hcl: #623a2f
+Test: True
+pid: 500330326
+Test: True
+hgt: 170cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #82
+byr: 1927
+Test: True
+iyr: 2011
+Test: True
+eyr: 1984
+Test: False
+hcl: 3bc47a
+Test: False
+hgt: 71cm
+Test: False
+ecl: utc
+Test: False
+Finally pass: False
+
+Passport #83
+byr: 1922
+Test: True
+iyr: 2010
+Test: True
+eyr: 2024
+Test: True
+hcl: #c0946f
+Test: True
+pid: 867476938
+Test: True
+hgt: 164cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #84
+byr: 2022
+Test: False
+hcl: #b6652a
+Test: True
+pid: #c37dbf
+Test: False
+hgt: 72cm
+Test: False
+ecl: #8bd8f4
+Test: False
+Finally pass: False
+
+Passport #85
+byr: 1945
+Test: True
+iyr: 2016
+Test: True
+eyr: 2024
+Test: True
+hcl: #602927
+Test: True
+pid: 482664712
+Test: True
+hgt: 172cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #86
+byr: 1937
+Test: True
+iyr: 0
+Test: False
+hcl: #fffffd
+Test: True
+pid: 883381915
+Test: True
+hgt: 174cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #87
+byr: 2010
+Test: False
+hcl: #ceb3a1
+Test: True
+pid: 302832265
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #88
+byr: 1945
+Test: True
+iyr: 2016
+Test: True
+eyr: 2030
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 846949920
+Test: True
+hgt: 170cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #89
+byr: 1981
+Test: True
+iyr: 2013
+Test: True
+eyr: 2023
+Test: True
+hcl: #efcc98
+Test: True
+pid: 406029852
+Test: True
+hgt: 0cm
+Test: False
+ecl: blu
+Test: True
+Finally pass: False
+
+Passport #90
+byr: 2002
+Test: True
+iyr: 2010
+Test: True
+eyr: 2022
+Test: True
+hcl: #a97842
+Test: True
+pid: 788563693
+Test: True
+hgt: 172cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #91
+byr: 1995
+Test: True
+iyr: 2013
+Test: True
+eyr: 2023
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 6594060725
+Test: False
+hgt: 60cm
+Test: False
+ecl: #46a7d7
+Test: False
+Finally pass: False
+
+Passport #92
+byr: 1964
+Test: True
+iyr: 0
+Test: False
+hcl: #341e13
+Test: True
+pid: 102442749
+Test: True
+hgt: 167cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #93
+byr: 0
+Test: False
+hcl: #733820
+Test: True
+pid: 405504213
+Test: True
+hgt: 163cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: False
+
+Passport #94
+byr: 1980
+Test: True
+iyr: 2015
+Test: True
+eyr: 2027
+Test: True
+hcl: 0
+Test: False
+hgt: 180cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #95
+byr: 1981
+Test: True
+iyr: 2013
+Test: True
+eyr: 2023
+Test: True
+hcl: #866857
+Test: True
+pid: 386584267
+Test: True
+hgt: 189cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #96
+byr: 1931
+Test: True
+iyr: 2011
+Test: True
+eyr: 2027
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 435568613
+Test: True
+hgt: 71in
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #97
+byr: 1974
+Test: True
+iyr: 2015
+Test: True
+eyr: 2021
+Test: True
+hcl: 0
+Test: False
+hgt: 192cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #98
+byr: 1989
+Test: True
+iyr: 2011
+Test: True
+eyr: 2027
+Test: True
+hcl: #efcc98
+Test: True
+pid: 761106563
+Test: True
+hgt: 60in
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #99
+byr: 1933
+Test: True
+iyr: 2010
+Test: True
+eyr: 2026
+Test: True
+hcl: #cfa07d
+Test: True
+pid: 607926472
+Test: True
+hgt: 0cm
+Test: False
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #100
+byr: 1980
+Test: True
+iyr: 2017
+Test: True
+eyr: 2027
+Test: True
+hcl: #341e13
+Test: True
+pid: 68527368
+Test: False
+hgt: 175cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #101
+byr: 1950
+Test: True
+iyr: 1920
+Test: False
+hcl: 0
+Test: False
+hgt: 159cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: False
+
+Passport #102
+byr: 2007
+Test: False
+hcl: #a97842
+Test: True
+pid: 060780170
+Test: True
+hgt: 184cm
+Test: True
+ecl: gmt
+Test: False
+Finally pass: False
+
+Passport #103
+byr: 1970
+Test: True
+iyr: 0
+Test: False
+hcl: #cfa07d
+Test: True
+pid: 423232940
+Test: True
+hgt: 183cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #104
+byr: 1951
+Test: True
+iyr: 2012
+Test: True
+eyr: 2029
+Test: True
+hcl: #18171d
+Test: True
+pid: 627632195
+Test: True
+hgt: 191cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #105
+byr: 1938
+Test: True
+iyr: 2019
+Test: True
+eyr: 2025
+Test: True
+hcl: 0
+Test: False
+hgt: 163cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #106
+byr: 1968
+Test: True
+iyr: 2015
+Test: True
+eyr: 1970
+Test: False
+hcl: #efcc98
+Test: True
+pid: 297446459
+Test: True
+hgt: 160cm
+Test: True
+ecl: #9cf598
+Test: False
+Finally pass: False
+
+Passport #107
+byr: 1978
+Test: True
+iyr: 2014
+Test: True
+eyr: 2026
+Test: True
+hcl: #602927
+Test: True
+pid: 311990731
+Test: True
+hgt: 171cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #108
+byr: 1950
+Test: True
+iyr: 2015
+Test: True
+eyr: 2027
+Test: True
+hcl: #8e0dfc
+Test: True
+pid: 961997362
+Test: True
+hgt: 184in
+Test: False
+ecl: blu
+Test: True
+Finally pass: False
+
+Passport #109
+byr: 1920
+Test: True
+iyr: 2018
+Test: True
+eyr: 2022
+Test: True
+hcl: #341e13
+Test: True
+pid: 953859016
+Test: True
+hgt: 192cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #110
+byr: 1942
+Test: True
+iyr: 2021
+Test: False
+hcl: #6b5442
+Test: True
+pid: 149020634
+Test: True
+hgt: 176in
+Test: False
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #111
+byr: 2002
+Test: True
+iyr: 2020
+Test: True
+eyr: 2025
+Test: True
+hcl: #efcc98
+Test: True
+pid: 196082064
+Test: True
+hgt: 176cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #112
+byr: 1977
+Test: True
+iyr: 2014
+Test: True
+eyr: 2035
+Test: False
+hcl: z
+Test: False
+hgt: 172in
+Test: False
+ecl: #d7a600
+Test: False
+Finally pass: False
+
+Passport #113
+byr: 1947
+Test: True
+iyr: 2020
+Test: True
+eyr: 2028
+Test: True
+hcl: #341e13
+Test: True
+pid: 716596533
+Test: True
+hgt: 150cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #114
+byr: 1922
+Test: True
+iyr: 2019
+Test: True
+eyr: 2021
+Test: True
+hcl: #18171d
+Test: True
+pid: 190601635
+Test: True
+hgt: 71in
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #115
+byr: 1938
+Test: True
+iyr: 2019
+Test: True
+eyr: 2028
+Test: True
+hcl: #efcc98
+Test: True
+pid: 568504071
+Test: True
+hgt: 178cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #116
+byr: 1983
+Test: True
+iyr: 2018
+Test: True
+eyr: 2020
+Test: True
+hcl: #c0946f
+Test: True
+pid: 921417345
+Test: True
+hgt: 168cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #117
+byr: 2024
+Test: False
+hcl: #b6652a
+Test: True
+pid: 61850316
+Test: False
+ecl: grn
+Test: True
+Finally pass: False
+
+Passport #118
+byr: 0
+Test: False
+hcl: z
+Test: False
+hgt: 72cm
+Test: False
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #119
+byr: 0
+Test: False
+hcl: z
+Test: False
+ecl: zzz
+Test: False
+Finally pass: False
+
+Passport #120
+byr: 1946
+Test: True
+iyr: 2014
+Test: True
+eyr: 2021
+Test: True
+hcl: #733820
+Test: True
+pid: 654181902
+Test: True
+hgt: 156cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #121
+byr: 1940
+Test: True
+iyr: 2019
+Test: True
+eyr: 2020
+Test: True
+hcl: #fffffd
+Test: True
+pid: 419593669
+Test: True
+hgt: 189cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #122
+byr: 1988
+Test: True
+iyr: 2020
+Test: True
+eyr: 2027
+Test: True
+hcl: #341e13
+Test: True
+pid: 788208394
+Test: True
+hgt: 172cm
+Test: True
+ecl: lzr
+Test: False
+Finally pass: False
+
+Passport #123
+byr: 2030
+Test: False
+hcl: #be9be7
+Test: True
+pid: 1291285950
+Test: False
+hgt: 61cm
+Test: False
+ecl: #d82c54
+Test: False
+Finally pass: False
+
+Passport #124
+byr: 1992
+Test: True
+iyr: 0
+Test: False
+hcl: #a97842
+Test: True
+pid: 0
+Test: False
+hgt: 186cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #125
+byr: 1963
+Test: True
+iyr: 2017
+Test: True
+eyr: 2025
+Test: True
+hcl: 0
+Test: False
+hgt: 191cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: False
+
+Passport #126
+byr: 1983
+Test: True
+iyr: 1937
+Test: False
+hcl: z
+Test: False
+hgt: 184cm
+Test: True
+ecl: zzz
+Test: False
+Finally pass: False
+
+Passport #127
+byr: 1939
+Test: True
+iyr: 2020
+Test: True
+eyr: 2025
+Test: True
+hcl: #623a2f
+Test: True
+pid: 575911832
+Test: True
+hgt: 167cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #128
+byr: 2030
+Test: False
+hcl: d678e0
+Test: False
+hgt: 179cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #129
+byr: 1982
+Test: True
+iyr: 2013
+Test: True
+eyr: 2020
+Test: True
+hcl: #623a2f
+Test: True
+pid: 405789549
+Test: True
+hgt: 161cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #130
+byr: 1930
+Test: True
+iyr: 2016
+Test: True
+eyr: 2022
+Test: True
+hcl: #fffffd
+Test: True
+pid: 775860836
+Test: True
+hgt: 184cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #131
+byr: 1979
+Test: True
+iyr: 2020
+Test: True
+eyr: 2024
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 853915000
+Test: True
+hgt: 171cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #132
+byr: 1931
+Test: True
+iyr: 2015
+Test: True
+eyr: 2022
+Test: True
+hcl: #18171d
+Test: True
+pid: 244459567
+Test: True
+hgt: 169cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #133
+byr: 1953
+Test: True
+iyr: 2017
+Test: True
+eyr: 2026
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 466915764
+Test: True
+hgt: 59in
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #134
+byr: 1940
+Test: True
+iyr: 2015
+Test: True
+eyr: 2020
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 950614940
+Test: True
+hgt: 179cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #135
+byr: 2010
+Test: False
+hcl: f13e26
+Test: False
+hgt: 182cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #136
+byr: 1981
+Test: True
+iyr: 2017
+Test: True
+eyr: 2024
+Test: True
+hcl: #fffffd
+Test: True
+pid: 0
+Test: False
+hgt: 152cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #137
+byr: 1975
+Test: True
+iyr: 2018
+Test: True
+eyr: 2020
+Test: True
+hcl: #18171d
+Test: True
+pid: 684529055
+Test: True
+hgt: 193cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #138
+byr: 1951
+Test: True
+iyr: 2018
+Test: True
+eyr: 2028
+Test: True
+hcl: #cfa07d
+Test: True
+pid: 749102509
+Test: True
+hgt: 150cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #139
+byr: 1941
+Test: True
+iyr: 2020
+Test: True
+eyr: 2021
+Test: True
+hcl: #341e13
+Test: True
+pid: 937451204
+Test: True
+hgt: 171cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #140
+byr: 1961
+Test: True
+iyr: 2014
+Test: True
+eyr: 2022
+Test: True
+hcl: #a97842
+Test: True
+pid: 174789690
+Test: True
+hgt: 157cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #141
+byr: 2005
+Test: False
+hcl: #7d3b0c
+Test: True
+pid: 658134059
+Test: True
+hgt: 65in
+Test: True
+ecl: #2dcb50
+Test: False
+Finally pass: False
+
+Passport #142
+byr: 0
+Test: False
+hcl: #888785
+Test: True
+pid: 181577931
+Test: True
+hgt: 68in
+Test: True
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #143
+byr: 1994
+Test: True
+iyr: 1997
+Test: False
+hcl: #ceb3a1
+Test: True
+pid: 564165515
+Test: True
+hgt: 189cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #144
+byr: 1996
+Test: True
+iyr: 2015
+Test: True
+eyr: 2024
+Test: True
+hcl: #602927
+Test: True
+pid: 897871188
+Test: True
+hgt: 184cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #145
+byr: 1937
+Test: True
+iyr: 2016
+Test: True
+eyr: 2022
+Test: True
+hcl: #623a2f
+Test: True
+pid: 012591439
+Test: True
+hgt: 176cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #146
+byr: 1965
+Test: True
+iyr: 2013
+Test: True
+eyr: 2020
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 177120440
+Test: True
+hgt: 193cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #147
+byr: 1934
+Test: True
+iyr: 2015
+Test: True
+eyr: 2028
+Test: True
+hcl: #341e13
+Test: True
+pid: 370860309
+Test: True
+hgt: 157cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #148
+byr: 2001
+Test: True
+iyr: 2010
+Test: True
+eyr: 2028
+Test: True
+hcl: #866857
+Test: True
+pid: 194361427
+Test: True
+hgt: 183cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #149
+byr: 1958
+Test: True
+iyr: 2017
+Test: True
+eyr: 0
+Test: False
+hcl: #efcc98
+Test: True
+pid: 449667574
+Test: True
+hgt: 182cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: False
+
+Passport #150
+byr: 1969
+Test: True
+iyr: 2020
+Test: True
+eyr: 2030
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 157651787
+Test: True
+hgt: 185cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #151
+byr: 1944
+Test: True
+iyr: 0
+Test: False
+hcl: #a97842
+Test: True
+pid: 893956434
+Test: True
+hgt: 185cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #152
+byr: 2011
+Test: False
+hcl: #623a2f
+Test: True
+pid: 174cm
+Test: False
+hgt: 159cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: False
+
+Passport #153
+byr: 2020
+Test: False
+hcl: z
+Test: False
+hgt: 156cm
+Test: True
+ecl: grt
+Test: False
+Finally pass: False
+
+Passport #154
+byr: 1994
+Test: True
+iyr: 2015
+Test: True
+eyr: 2021
+Test: True
+hcl: #83b224
+Test: True
+pid: 554994156
+Test: True
+hgt: 179cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #155
+byr: 1971
+Test: True
+iyr: 0
+Test: False
+hcl: #602927
+Test: True
+pid: 772131254
+Test: True
+hgt: 0cm
+Test: False
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #156
+byr: 1943
+Test: True
+iyr: 2016
+Test: True
+eyr: 2020
+Test: True
+hcl: #cfa07d
+Test: True
+pid: 418786991
+Test: True
+hgt: 168cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #157
+byr: 2024
+Test: False
+hcl: d31139
+Test: False
+hgt: 190in
+Test: False
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #158
+byr: 1951
+Test: True
+iyr: 2018
+Test: True
+eyr: 2030
+Test: True
+hcl: #cfa07d
+Test: True
+pid: 382615614
+Test: True
+hgt: 64in
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #159
+byr: 1925
+Test: True
+iyr: 0
+Test: False
+hcl: #888785
+Test: True
+pid: 0
+Test: False
+hgt: 187cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #160
+byr: 1923
+Test: True
+iyr: 2013
+Test: True
+eyr: 2028
+Test: True
+hcl: #b6652a
+Test: True
+pid: 274036240
+Test: True
+hgt: 154cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #161
+byr: 1922
+Test: True
+iyr: 2016
+Test: True
+eyr: 2030
+Test: True
+hcl: #efcc98
+Test: True
+pid: 0
+Test: False
+hgt: 183cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #162
+byr: 1979
+Test: True
+iyr: 2019
+Test: True
+eyr: 2025
+Test: True
+hcl: #b6652a
+Test: True
+pid: 646985829
+Test: True
+hgt: 188cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #163
+byr: 1943
+Test: True
+iyr: 0
+Test: False
+hcl: z
+Test: False
+hgt: 76cm
+Test: False
+ecl: zzz
+Test: False
+Finally pass: False
+
+Passport #164
+byr: 1954
+Test: True
+iyr: 2015
+Test: True
+eyr: 1934
+Test: False
+hcl: #ceb3a1
+Test: True
+pid: 704621520
+Test: True
+hgt: 73cm
+Test: False
+ecl: #12c807
+Test: False
+Finally pass: False
+
+Passport #165
+byr: 1982
+Test: True
+iyr: 2018
+Test: True
+eyr: 2024
+Test: True
+hcl: #733820
+Test: True
+pid: 522812862
+Test: True
+hgt: 188cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #166
+byr: 2023
+Test: False
+hcl: #623a2f
+Test: True
+pid: 875418461
+Test: True
+hgt: 68cm
+Test: False
+ecl: blu
+Test: True
+Finally pass: False
+
+Passport #167
+byr: 1967
+Test: True
+iyr: 2012
+Test: True
+eyr: 2026
+Test: True
+hcl: #888785
+Test: True
+pid: 313706535
+Test: True
+hgt: 0cm
+Test: False
+ecl: amb
+Test: True
+Finally pass: False
+
+Passport #168
+byr: 1932
+Test: True
+iyr: 2016
+Test: True
+eyr: 2026
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 288363970
+Test: True
+hgt: 157cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #169
+byr: 1992
+Test: True
+iyr: 2019
+Test: True
+eyr: 2023
+Test: True
+hcl: #866857
+Test: True
+pid: 539896055
+Test: True
+hgt: 70in
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #170
+byr: 2028
+Test: False
+hcl: #cfa07d
+Test: True
+pid: 044279141
+Test: True
+hgt: 158in
+Test: False
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #171
+byr: 1939
+Test: True
+iyr: 2013
+Test: True
+eyr: 2024
+Test: True
+hcl: #fffffd
+Test: True
+pid: 851235247
+Test: True
+hgt: 170cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #172
+byr: 1936
+Test: True
+iyr: 2016
+Test: True
+eyr: 2024
+Test: True
+hcl: #c0946f
+Test: True
+pid: 463230636
+Test: True
+hgt: 167cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #173
+byr: 1947
+Test: True
+iyr: 2014
+Test: True
+eyr: 2025
+Test: True
+hcl: #b6652a
+Test: True
+pid: 291401545
+Test: True
+hgt: 185cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #174
+byr: 1991
+Test: True
+iyr: 2018
+Test: True
+eyr: 2029
+Test: True
+hcl: #733820
+Test: True
+pid: 612595763
+Test: True
+hgt: 150cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #175
+byr: 1930
+Test: True
+iyr: 2012
+Test: True
+eyr: 0
+Test: False
+hcl: #efcc98
+Test: True
+pid: 667532675
+Test: True
+hgt: 151cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #176
+byr: 0
+Test: False
+hcl: #888785
+Test: True
+pid: 467759498
+Test: True
+hgt: 161cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #177
+byr: 1956
+Test: True
+iyr: 2014
+Test: True
+eyr: 2023
+Test: True
+hcl: #b6652a
+Test: True
+pid: 382721925
+Test: True
+hgt: 188cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #178
+byr: 1947
+Test: True
+iyr: 2029
+Test: False
+hcl: #602927
+Test: True
+pid: 874004905
+Test: True
+hgt: 161cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #179
+byr: 1959
+Test: True
+iyr: 2014
+Test: True
+eyr: 2020
+Test: True
+hcl: #733820
+Test: True
+pid: 164334257
+Test: True
+hgt: 165cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #180
+byr: 2030
+Test: False
+hcl: z
+Test: False
+hgt: 59in
+Test: True
+ecl: utc
+Test: False
+Finally pass: False
+
+Passport #181
+byr: 1952
+Test: True
+iyr: 2016
+Test: True
+eyr: 2021
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 604128460
+Test: True
+hgt: 152cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #182
+byr: 2024
+Test: False
+hcl: z
+Test: False
+hgt: 158in
+Test: False
+ecl: #158994
+Test: False
+Finally pass: False
+
+Passport #183
+byr: 1966
+Test: True
+iyr: 1980
+Test: False
+hcl: 22207f
+Test: False
+hgt: 70cm
+Test: False
+ecl: utc
+Test: False
+Finally pass: False
+
+Passport #184
+byr: 1920
+Test: True
+iyr: 2012
+Test: True
+eyr: 2022
+Test: True
+hcl: 1a323a
+Test: False
+hgt: 70in
+Test: True
+ecl: dne
+Test: False
+Finally pass: False
+
+Passport #185
+byr: 1938
+Test: True
+iyr: 2019
+Test: True
+eyr: 2026
+Test: True
+hcl: #18171d
+Test: True
+pid: 514596186
+Test: True
+hgt: 191cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #186
+byr: 0
+Test: False
+hcl: #a97842
+Test: True
+pid: 904148746
+Test: True
+hgt: 161cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #187
+byr: 2020
+Test: False
+hcl: z
+Test: False
+hgt: 63cm
+Test: False
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #188
+byr: 2008
+Test: False
+hcl: ffc210
+Test: False
+hgt: 72cm
+Test: False
+ecl: lzr
+Test: False
+Finally pass: False
+
+Passport #189
+byr: 1931
+Test: True
+iyr: 2018
+Test: True
+eyr: 2040
+Test: False
+hcl: z
+Test: False
+hgt: 68in
+Test: True
+ecl: #10b2ed
+Test: False
+Finally pass: False
+
+Passport #190
+byr: 2008
+Test: False
+hcl: z
+Test: False
+hgt: 184cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #191
+byr: 0
+Test: False
+hcl: #7d3b0c
+Test: True
+pid: 270148060
+Test: True
+hgt: 0cm
+Test: False
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #192
+byr: 1965
+Test: True
+iyr: 2016
+Test: True
+eyr: 2023
+Test: True
+hcl: #a97842
+Test: True
+pid: 832184923
+Test: True
+hgt: 180cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #193
+byr: 1986
+Test: True
+iyr: 2011
+Test: True
+eyr: 2021
+Test: True
+hcl: #733820
+Test: True
+pid: 688867083
+Test: True
+hgt: 0cm
+Test: False
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #194
+byr: 2014
+Test: False
+hcl: #cfa07d
+Test: True
+pid: 169cm
+Test: False
+hgt: 166in
+Test: False
+ecl: amb
+Test: True
+Finally pass: False
+
+Passport #195
+byr: 1987
+Test: True
+iyr: 2012
+Test: True
+eyr: 2027
+Test: True
+hcl: 01f3d7
+Test: False
+hgt: 64in
+Test: True
+ecl: grn
+Test: True
+Finally pass: False
+
+Passport #196
+byr: 1975
+Test: True
+iyr: 2016
+Test: True
+eyr: 2029
+Test: True
+hcl: #6b5442
+Test: True
+pid: 296100726
+Test: True
+hgt: 180cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #197
+byr: 1922
+Test: True
+iyr: 2010
+Test: True
+eyr: 2029
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 364719801
+Test: True
+hgt: 181cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #198
+byr: 1928
+Test: True
+iyr: 2018
+Test: True
+eyr: 2023
+Test: True
+hcl: #1c7f1d
+Test: True
+pid: 694275035
+Test: True
+hgt: 184cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #199
+byr: 2001
+Test: True
+iyr: 2030
+Test: False
+hcl: z
+Test: False
+hgt: 187in
+Test: False
+ecl: blu
+Test: True
+Finally pass: False
+
+Passport #200
+byr: 2030
+Test: False
+hcl: z
+Test: False
+ecl: zzz
+Test: False
+Finally pass: False
+
+Passport #201
+byr: 1992
+Test: True
+iyr: 2018
+Test: True
+eyr: 2023
+Test: True
+hcl: #888785
+Test: True
+pid: 602211075
+Test: True
+hgt: 188cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #202
+byr: 1981
+Test: True
+iyr: 2016
+Test: True
+eyr: 2026
+Test: True
+hcl: #866857
+Test: True
+pid: 848099019
+Test: True
+hgt: 168cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #203
+byr: 1974
+Test: True
+iyr: 2013
+Test: True
+eyr: 2026
+Test: True
+hcl: #623a2f
+Test: True
+pid: 313553018
+Test: True
+hgt: 151cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #204
+byr: 1986
+Test: True
+iyr: 2017
+Test: True
+eyr: 2024
+Test: True
+hcl: #733820
+Test: True
+pid: 676008782
+Test: True
+hgt: 182cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #205
+byr: 1949
+Test: True
+iyr: 2011
+Test: True
+eyr: 2030
+Test: True
+hcl: #602927
+Test: True
+pid: 833874339
+Test: True
+hgt: 159cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #206
+byr: 1926
+Test: True
+iyr: 2012
+Test: True
+eyr: 2029
+Test: True
+hcl: #6b5442
+Test: True
+pid: 131549376
+Test: True
+hgt: 182cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #207
+byr: 1944
+Test: True
+iyr: 2015
+Test: True
+eyr: 2027
+Test: True
+hcl: #a97842
+Test: True
+pid: 0
+Test: False
+hgt: 192cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: False
+
+Passport #208
+byr: 2006
+Test: False
+hcl: a2adf2
+Test: False
+hgt: 67cm
+Test: False
+ecl: dne
+Test: False
+Finally pass: False
+
+Passport #209
+byr: 2028
+Test: False
+hcl: #1495bd
+Test: True
+pid: 182cm
+Test: False
+ecl: grt
+Test: False
+Finally pass: False
+
+Passport #210
+byr: 1945
+Test: True
+iyr: 2012
+Test: True
+eyr: 2020
+Test: True
+hcl: #18171d
+Test: True
+pid: 599182089
+Test: True
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #211
+byr: 1936
+Test: True
+iyr: 2012
+Test: True
+eyr: 2039
+Test: False
+hcl: #cfa07d
+Test: True
+pid: 4695182580
+Test: False
+hgt: 0cm
+Test: False
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #212
+byr: 1949
+Test: True
+iyr: 2011
+Test: True
+eyr: 2030
+Test: True
+hcl: #b6652a
+Test: True
+pid: 9833212692
+Test: False
+hgt: 159cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #213
+byr: 1980
+Test: True
+iyr: 2014
+Test: True
+eyr: 2020
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 400508366
+Test: True
+hgt: 175cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #214
+byr: 1962
+Test: True
+iyr: 2016
+Test: True
+eyr: 2037
+Test: False
+hcl: 0
+Test: False
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #215
+byr: 0
+Test: False
+hcl: #6b5442
+Test: True
+pid: 180cm
+Test: False
+hgt: 154cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #216
+byr: 1986
+Test: True
+iyr: 2017
+Test: True
+eyr: 2024
+Test: True
+hcl: #cfa07d
+Test: True
+pid: 856817592
+Test: True
+hgt: 159cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #217
+byr: 1996
+Test: True
+iyr: 2010
+Test: True
+eyr: 2026
+Test: True
+hcl: #410645
+Test: True
+pid: 337713295
+Test: True
+hgt: 166cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #218
+byr: 1964
+Test: True
+iyr: 2017
+Test: True
+eyr: 0
+Test: False
+hcl: #7d3b0c
+Test: True
+pid: 371416367
+Test: True
+hgt: 167cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #219
+byr: 1929
+Test: True
+iyr: 2011
+Test: True
+eyr: 2021
+Test: True
+hcl: #fffffd
+Test: True
+pid: 013408674
+Test: True
+hgt: 187cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #220
+byr: 1986
+Test: True
+iyr: 2010
+Test: True
+eyr: 2028
+Test: True
+hcl: #cfa07d
+Test: True
+pid: 616063053
+Test: True
+hgt: 150cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #221
+byr: 1991
+Test: True
+iyr: 2017
+Test: True
+eyr: 2020
+Test: True
+hcl: #efcc98
+Test: True
+pid: 013835033
+Test: True
+hgt: 154cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #222
+byr: 1978
+Test: True
+iyr: 2012
+Test: True
+eyr: 2024
+Test: True
+hcl: #694989
+Test: True
+pid: 914726069
+Test: True
+hgt: 155cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #223
+byr: 1970
+Test: True
+iyr: 2012
+Test: True
+eyr: 2024
+Test: True
+hcl: #fffffd
+Test: True
+pid: 139464317
+Test: True
+hgt: 72in
+Test: True
+ecl: blu
+Test: True
+Finally pass: True
+
+Passport #224
+byr: 1965
+Test: True
+iyr: 2019
+Test: True
+eyr: 2029
+Test: True
+hcl: #ceb3a1
+Test: True
+pid: 910593212
+Test: True
+hgt: 0cm
+Test: False
+ecl: hzl
+Test: True
+Finally pass: False
+
+Passport #225
+byr: 1994
+Test: True
+iyr: 2011
+Test: True
+eyr: 2025
+Test: True
+hcl: #6b5442
+Test: True
+pid: 538884417
+Test: True
+hgt: 171cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #226
+byr: 1954
+Test: True
+iyr: 2012
+Test: True
+eyr: 2024
+Test: True
+hcl: #623a2f
+Test: True
+pid: 304101929
+Test: True
+hgt: 186cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #227
+byr: 1987
+Test: True
+iyr: 2015
+Test: True
+eyr: 2020
+Test: True
+hcl: z
+Test: False
+hgt: 183cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #228
+byr: 2012
+Test: False
+hcl: z
+Test: False
+hgt: 61cm
+Test: False
+ecl: #8ea705
+Test: False
+Finally pass: False
+
+Passport #229
+byr: 1939
+Test: True
+iyr: 0
+Test: False
+hcl: #cd2220
+Test: True
+pid: 484163297
+Test: True
+hgt: 156cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #230
+byr: 2000
+Test: True
+iyr: 2014
+Test: True
+eyr: 2033
+Test: False
+hcl: 0
+Test: False
+hgt: 158in
+Test: False
+ecl: lzr
+Test: False
+Finally pass: False
+
+Passport #231
+byr: 1974
+Test: True
+iyr: 2018
+Test: True
+eyr: 2029
+Test: True
+hcl: #c0946f
+Test: True
+pid: 285451524
+Test: True
+hgt: 184cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #232
+byr: 1974
+Test: True
+iyr: 2013
+Test: True
+eyr: 2026
+Test: True
+hcl: #602927
+Test: True
+pid: 322935162
+Test: True
+hgt: 151cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #233
+byr: 1970
+Test: True
+iyr: 2015
+Test: True
+eyr: 2034
+Test: False
+hcl: #341e13
+Test: True
+pid: 330151070
+Test: True
+hgt: 186cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: False
+
+Passport #234
+byr: 1926
+Test: True
+iyr: 2011
+Test: True
+eyr: 2023
+Test: True
+hcl: #c0946f
+Test: True
+pid: 727347794
+Test: True
+hgt: 160cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #235
+byr: 1974
+Test: True
+iyr: 2012
+Test: True
+eyr: 2025
+Test: True
+hcl: #866857
+Test: True
+pid: 933155590
+Test: True
+hgt: 167cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #236
+byr: 1967
+Test: True
+iyr: 2015
+Test: True
+eyr: 2029
+Test: True
+hcl: #f9f576
+Test: True
+pid: 439696954
+Test: True
+hgt: 170cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #237
+byr: 1935
+Test: True
+iyr: 2020
+Test: True
+eyr: 2029
+Test: True
+hcl: #6b5442
+Test: True
+pid: 165587982
+Test: True
+hgt: 0cm
+Test: False
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #238
+byr: 1994
+Test: True
+iyr: 2012
+Test: True
+eyr: 2029
+Test: True
+hcl: #866857
+Test: True
+pid: 308548232
+Test: True
+hgt: 162cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #239
+byr: 1924
+Test: True
+iyr: 2017
+Test: True
+eyr: 2025
+Test: True
+hcl: #cfa07d
+Test: True
+pid: 028266367
+Test: True
+hgt: 169cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #240
+byr: 1995
+Test: True
+iyr: 2011
+Test: True
+eyr: 2025
+Test: True
+hcl: #602927
+Test: True
+pid: 819047484
+Test: True
+hgt: 160cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #241
+byr: 1942
+Test: True
+iyr: 2016
+Test: True
+eyr: 2022
+Test: True
+hcl: #efcc98
+Test: True
+pid: 660383456
+Test: True
+hgt: 158cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #242
+byr: 0
+Test: False
+hcl: #6b5442
+Test: True
+pid: 167cm
+Test: False
+ecl: grn
+Test: True
+Finally pass: False
+
+Passport #243
+byr: 1920
+Test: True
+iyr: 2017
+Test: True
+eyr: 2024
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 236377188
+Test: True
+hgt: 165cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #244
+byr: 1977
+Test: True
+iyr: 2017
+Test: True
+eyr: 0
+Test: False
+hcl: #341e13
+Test: True
+pid: 063113952
+Test: True
+hgt: 166cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: False
+
+Passport #245
+byr: 2002
+Test: True
+iyr: 2017
+Test: True
+eyr: 2028
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 428826816
+Test: True
+hgt: 174cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #246
+byr: 2025
+Test: False
+hcl: 240e75
+Test: False
+hgt: 167in
+Test: False
+ecl: dne
+Test: False
+Finally pass: False
+
+Passport #247
+byr: 1923
+Test: True
+iyr: 2014
+Test: True
+eyr: 2021
+Test: True
+hcl: #efcc98
+Test: True
+pid: 358236477
+Test: True
+hgt: 165cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #248
+byr: 1989
+Test: True
+iyr: 2018
+Test: True
+eyr: 2030
+Test: True
+hcl: #c0946f
+Test: True
+pid: 282023612
+Test: True
+hgt: 72cm
+Test: False
+ecl: brn
+Test: True
+Finally pass: False
+
+Passport #249
+byr: 2013
+Test: False
+hcl: ea4b34
+Test: False
+ecl: utc
+Test: False
+Finally pass: False
+
+Passport #250
+byr: 1946
+Test: True
+iyr: 2012
+Test: True
+eyr: 2024
+Test: True
+hcl: #341e13
+Test: True
+pid: 765835791
+Test: True
+hgt: 159cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #251
+byr: 1927
+Test: True
+iyr: 2011
+Test: True
+eyr: 2023
+Test: True
+hcl: #341e13
+Test: True
+pid: 638808763
+Test: True
+hgt: 175cm
+Test: True
+ecl: grn
+Test: True
+Finally pass: True
+
+Passport #252
+byr: 1994
+Test: True
+iyr: 2016
+Test: True
+eyr: 2030
+Test: True
+hcl: #623a2f
+Test: True
+pid: 569304871
+Test: True
+hgt: 163cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #253
+byr: 1965
+Test: True
+iyr: 2014
+Test: True
+eyr: 2020
+Test: True
+hcl: #a97842
+Test: True
+pid: 326802068
+Test: True
+hgt: 157cm
+Test: True
+ecl: #a16571
+Test: False
+Finally pass: False
+
+Passport #254
+byr: 1965
+Test: True
+iyr: 2010
+Test: True
+eyr: 2029
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 617693914
+Test: True
+hgt: 157cm
+Test: True
+ecl: hzl
+Test: True
+Finally pass: True
+
+Passport #255
+byr: 1956
+Test: True
+iyr: 2011
+Test: True
+eyr: 2029
+Test: True
+hcl: #602927
+Test: True
+pid: 547158528
+Test: True
+hgt: 189cm
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #256
+byr: 2027
+Test: False
+hcl: #efcc98
+Test: True
+pid: 160cm
+Test: False
+hgt: 183cm
+Test: True
+ecl: #1ecd0e
+Test: False
+Finally pass: False
+
+Passport #257
+byr: 1959
+Test: True
+iyr: 2014
+Test: True
+eyr: 2021
+Test: True
+hcl: #fffffd
+Test: True
+pid: 102521439
+Test: True
+hgt: 190cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #258
+byr: 2025
+Test: False
+hcl: #fffffd
+Test: True
+pid: 016603375
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #259
+byr: 2022
+Test: False
+hcl: z
+Test: False
+hgt: 171cm
+Test: True
+ecl: xry
+Test: False
+Finally pass: False
+
+Passport #260
+byr: 1936
+Test: True
+iyr: 2014
+Test: True
+eyr: 2029
+Test: True
+hcl: #7d3b0c
+Test: True
+pid: 088295340
+Test: True
+hgt: 0cm
+Test: False
+ecl: oth
+Test: True
+Finally pass: False
+
+Passport #261
+byr: 1993
+Test: True
+iyr: 2019
+Test: True
+eyr: 2023
+Test: True
+hcl: #efcc98
+Test: True
+pid: 821190245
+Test: True
+hgt: 183cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #262
+byr: 1981
+Test: True
+iyr: 2018
+Test: True
+eyr: 2022
+Test: True
+hcl: #524e2e
+Test: True
+pid: 037981572
+Test: True
+hgt: 183cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #263
+byr: 1934
+Test: True
+iyr: 2010
+Test: True
+eyr: 2020
+Test: True
+hcl: #18171d
+Test: True
+pid: 343039563
+Test: True
+hgt: 62in
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #264
+byr: 1994
+Test: True
+iyr: 2015
+Test: True
+eyr: 2026
+Test: True
+hcl: #733820
+Test: True
+pid: 374199356
+Test: True
+hgt: 169cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #265
+byr: 1988
+Test: True
+iyr: 2010
+Test: True
+eyr: 2022
+Test: True
+hcl: #a97842
+Test: True
+pid: 394267581
+Test: True
+hgt: 185cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #266
+byr: 2023
+Test: False
+hcl: z
+Test: False
+ecl: #be3b70
+Test: False
+Finally pass: False
+
+Passport #267
+byr: 1946
+Test: True
+iyr: 2012
+Test: True
+eyr: 2029
+Test: True
+hcl: #a97842
+Test: True
+pid: 805319194
+Test: True
+hgt: 159cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: True
+
+Passport #268
+byr: 1958
+Test: True
+iyr: 2010
+Test: True
+eyr: 2020
+Test: True
+hcl: #c0946f
+Test: True
+pid: 276122958
+Test: True
+hgt: 171cm
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #269
+byr: 2007
+Test: False
+hcl: #da47a1
+Test: True
+pid: 549704477
+Test: True
+hgt: 192cm
+Test: True
+ecl: utc
+Test: False
+Finally pass: False
+
+Passport #270
+byr: 1974
+Test: True
+iyr: 1923
+Test: False
+hcl: z
+Test: False
+hgt: 174in
+Test: False
+ecl: xry
+Test: False
+Finally pass: False
+
+Passport #271
+byr: 2019
+Test: False
+hcl: z
+Test: False
+ecl: #ae10f9
+Test: False
+Finally pass: False
+
+Passport #272
+byr: 1953
+Test: True
+iyr: 2012
+Test: True
+eyr: 2021
+Test: True
+hcl: 0
+Test: False
+hgt: 178cm
+Test: True
+ecl: amb
+Test: True
+Finally pass: False
+
+Passport #273
+byr: 2016
+Test: False
+hcl: z
+Test: False
+hgt: 181cm
+Test: True
+ecl: lzr
+Test: False
+Finally pass: False
+
+Passport #274
+byr: 2008
+Test: False
+hcl: #866857
+Test: True
+pid: 350658669
+Test: True
+hgt: 172cm
+Test: True
+ecl: blu
+Test: True
+Finally pass: False
+
+Passport #275
+byr: 1936
+Test: True
+iyr: 2010
+Test: True
+eyr: 2030
+Test: True
+hcl: #efcc98
+Test: True
+pid: 156329184
+Test: True
+hgt: 67in
+Test: True
+ecl: gry
+Test: True
+Finally pass: True
+
+Passport #276
+byr: 2002
+Test: True
+iyr: 2018
+Test: True
+eyr: 2029
+Test: True
+hcl: #866857
+Test: True
+pid: 474249956
+Test: True
+hgt: 76in
+Test: True
+ecl: oth
+Test: True
+Finally pass: True
+
+Passport #277
+byr: 1934
+Test: True
+iyr: 2016
+Test: True
+eyr: 2029
+Test: True
+hcl: #b6652a
+Test: True
+pid: 901756621
+Test: True
+hgt: 193cm
+Test: True
+ecl: brn
+Test: True
+Finally pass: True
+
+Passport #278
+byr: 0
+Test: False
+hcl: z
+Test: False
+hgt: 170cm
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Passport #279
+byr: 1922
+Test: True
+iyr: 2016
+Test: True
+eyr: 2026
+Test: True
+hcl: #18171d
+Test: True
+pid: 921038878
+Test: True
+hgt: 60in
+Test: True
+ecl: 0
+Test: False
+Finally pass: False
+
+Total passed passports: 137

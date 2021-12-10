@@ -69,7 +69,7 @@ while start_index < halt_index:
 pattern: str
 variable: str
 for pattern, variable in [
-    ["computer.initializer[1]", "x"],
+    ["computer.initializer[day_1]", "x"],
     ["computer.initializer[2]", "y"],
 ]:
     current_statement = current_statement.replace(pattern, variable)

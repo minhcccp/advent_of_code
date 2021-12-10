@@ -30,9 +30,9 @@ class LightBoard:
             command, *coordinates = search(
                 r"""
     (?P<command>turn\ on|turn\ off|toggle)\ 
-    (?P<x0>\d{1,3}),(?P<y0>\d{1,3})\ 
+    (?P<x0>\d{day_1,3}),(?P<y0>\d{day_1,3})\ 
     through\ 
-    (?P<x1>\d{1,3}),(?P<y1>\d{1,3})
+    (?P<x1>\d{day_1,3}),(?P<y1>\d{day_1,3})
     """,
                 line,
                 VERBOSE,

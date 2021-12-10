@@ -1,0 +1,29 @@
+[tool.poetry]
+name = "advent-of-code"
+version = "0.1.0"
+description = ""
+authors = ["Minh Tran <33189614+minhtrancccp@users.noreply.github.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+advent-of-code-data = { allow-prereleases = true, version = "^1.1.1" }
+beartype = { allow-prereleases = true, version = "^0.9.1" }
+gmpy2 = { allow-prereleases = true, version = "^2.1.0rc2" }
+more-itertools = { allow-prereleases = true, version = "^8.12.0" }
+numpy = { allow-prereleases = true, version = "^1.21.4" }
+regex = { allow-prereleases = true, version = "^2021.11.10" }
+sympy = { allow-prereleases = true, version = "^1.9" }
+
+[tool.poetry.dev-dependencies]
+black = { allow-prereleases = true, version = "^21.12b0" }
+browser-cookie3 = { allow-prereleases = true, version = "^0.13.0" }
+commitizen = { allow-prereleases = true, version = "^2.20.0" }
+ipython = { allow-prereleases = true, version = "^7.30.1" }
+isort = { allow-prereleases = true, version = "^5.10.1" }
+pre-commit = { allow-prereleases = true, version = "^2.16.0" }
+radon = { allow-prereleases = true, version = "^5.1.0" }
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

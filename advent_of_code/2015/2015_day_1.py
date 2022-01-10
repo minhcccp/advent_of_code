@@ -3,15 +3,16 @@ References:
     https://adventofcode.com/2015/day/1
 """
 
+from beartype import beartype
 
+
+@beartype
 def part_a(data: str) -> int:
-    from collections import Counter
-
-    counter: Counter[str] = Counter(data)
-    equivalent_pairs: tuple[tuple[str, int], ...] = (("(", 1), (")", -1))
-    return sum(counter[key] * value for key, value in equivalent_pairs)
+    equivalent_pairs: dict[str, int] = {"(": 1, ")": -1}
+    return sum(map(equivalent_pairs.get, data))
 
 
+@beartype
 def part_b(data: str) -> int:
     from regex import Pattern, compile
 
@@ -22,8 +23,9 @@ def part_b(data: str) -> int:
 
 
 def main():
-    from advent_of_code import submitter
     from aocd import get, get_data
+
+    from advent_of_code import submitter
 
     day: int
     year: int

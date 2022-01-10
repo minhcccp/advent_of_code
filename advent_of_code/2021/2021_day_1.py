@@ -5,8 +5,9 @@ References:
 
 from collections.abc import Iterable
 
-from advent_of_code import IntList, submitter
 from beartype import beartype
+
+from advent_of_code import IntList, submitter
 
 
 @beartype

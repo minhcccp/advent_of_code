@@ -3,8 +3,9 @@ References:
     https://adventofcode.com/2021/day/6
 """
 
-from advent_of_code import IntList, submitter
 from beartype import beartype
+
+from advent_of_code import IntList, submitter
 
 
 @beartype
@@ -18,15 +19,18 @@ def population_projection(data: IntList, days: int) -> int:
 
     passed_days: int = 0
     while passed_days < days:
-        children: int = next(filter(bool, populace))
-        delta_time: int = populace.index(children) + 1
+        delta_days: int
+        children: int
+        for delta_days, children in enumerate(populace, start=1):
+            if children:
+                # As a new generation of lantern fishes is born, the populace's timer groups are shifted in the
+                # direction of decreasing timers, except the timer group of 6 which is incremented by the number of
+                # parent fishes (a.k.a. the children count).
+                populace.rotate(-delta_days)
+                populace[6] += children
 
-        # As a new generation of lantern fishes is born, the populace's timer groups are shifted in the direction of
-        # decreasing timers, except the timer group of 6 which is incremented by the number of parent fishes.
-        populace.rotate(-delta_time)
-        populace[6] += children
-
-        passed_days += delta_time
+                passed_days += delta_days
+                break
 
     return sum(populace)
 

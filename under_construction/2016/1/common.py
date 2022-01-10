@@ -14,9 +14,7 @@ class Interpreter:
     def taxicab_metric(self) -> int:
         return int(sum(map(abs, self.turtle.pos())))
 
-    def location_iterator(
-        self, commands: str, step_by_step: bool = False
-    ) -> Iterator[PositionType]:
+    def location_iterator(self, commands: str) -> Iterator[PositionType]:
         turn: Literal["L", "R"]
         amplitude: str
         for turn, amplitude in findall(r"([LR])(\d+)", commands):

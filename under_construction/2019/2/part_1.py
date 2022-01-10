@@ -3,7 +3,6 @@ References:
     https://adventofcode.com/2019/day/2
 """
 from codetiming import Timer
-
 from common import Computer
 
 

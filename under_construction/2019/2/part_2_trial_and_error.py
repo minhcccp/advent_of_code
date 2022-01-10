@@ -5,7 +5,6 @@ References:
 from itertools import product
 
 from codetiming import Timer
-
 from common import Computer
 
 

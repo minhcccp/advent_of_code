@@ -8,10 +8,9 @@ Notes:
 """
 from itertools import count
 
+from common import Computer
 from sympy import simplify
 from sympy.parsing.sympy_parser import parse_expr
-
-from common import Computer
 
 computer: Computer = Computer("input.txt")
 

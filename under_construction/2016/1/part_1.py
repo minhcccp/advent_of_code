@@ -3,7 +3,6 @@ References:
     https://adventofcode.com/2016/day/1
 """
 from codetiming import Timer
-
 from common import Interpreter
 
 

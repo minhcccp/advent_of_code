@@ -3,8 +3,9 @@ References:
     https://adventofcode.com/2020/day/1
 """
 
-from advent_of_code import IntList, submitter
 from beartype import beartype
+
+from advent_of_code import IntList, submitter
 
 
 @beartype

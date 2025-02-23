@@ -19,7 +19,7 @@ sympy = { allow-prereleases = true, version = "^1.9" }
 black = { allow-prereleases = true, version = "^21.12b0" }
 browser-cookie3 = { allow-prereleases = true, version = "^0.13.0" }
 commitizen = { allow-prereleases = true, version = "^2.20.3" }
-ipython = { allow-prereleases = true, version = "^8.0.0a1" }
+ipython = { allow-prereleases = true, version = "^8.10.0" }
 isort = { allow-prereleases = true, version = "^5.10.1" }
 pre-commit = { allow-prereleases = true, version = "^2.16.0" }
 radon = { allow-prereleases = true, version = "^5.1.0" }
